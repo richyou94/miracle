@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/miracle/static/css/main.da6d4912.css",
+    "main.js": "/miracle/static/js/main.22a9c9fd.js",
+    "static/media/light-of-the-world.png": "/miracle/static/media/light-of-the-world.eac1e7394b673ab0218e.png",
+    "index.html": "/miracle/index.html",
+    "main.da6d4912.css.map": "/miracle/static/css/main.da6d4912.css.map",
+    "main.22a9c9fd.js.map": "/miracle/static/js/main.22a9c9fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6d4912.css",
+    "static/js/main.22a9c9fd.js"
+  ]
+}
