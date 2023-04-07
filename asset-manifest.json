@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/miracle-question/static/css/main.753d5f8a.css",
-    "main.js": "/miracle-question/static/js/main.22a9c9fd.js",
-    "static/media/light-of-the-world.png": "/miracle-question/static/media/light-of-the-world.eac1e7394b673ab0218e.png",
-    "index.html": "/miracle-question/index.html",
-    "main.753d5f8a.css.map": "/miracle-question/static/css/main.753d5f8a.css.map",
-    "main.22a9c9fd.js.map": "/miracle-question/static/js/main.22a9c9fd.js.map"
+    "main.css": "/miracle/static/css/main.da6d4912.css",
+    "main.js": "/miracle/static/js/main.22a9c9fd.js",
+    "static/media/light-of-the-world.png": "/miracle/static/media/light-of-the-world.eac1e7394b673ab0218e.png",
+    "index.html": "/miracle/index.html",
+    "main.da6d4912.css.map": "/miracle/static/css/main.da6d4912.css.map",
+    "main.22a9c9fd.js.map": "/miracle/static/js/main.22a9c9fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.753d5f8a.css",
+    "static/css/main.da6d4912.css",
     "static/js/main.22a9c9fd.js"
   ]
 }
